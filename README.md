@@ -10,9 +10,7 @@ Hello! I am Becamex Business Student with a passion for exploring data, uncoveri
 - **Skills I'm developing:** Python (Pandas, Matplotlib), SQL, and Database Administration.
 - **How to reach me:** trang.dominh.bbs22@eiu.edu.vn
   
-## Academic Portfolio
-
-Below are the repositories showcasing my academic progress and business analytics projects:
+## Portfolio
 
 ### [MIS 311 - Introduction to Business Analytics](https://github.com/minhtrangf12-ui/MIS-311)
 This repository focuses on the fundamental concepts of business analytics.
