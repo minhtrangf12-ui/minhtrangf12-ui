@@ -9,7 +9,7 @@ Hello! I am Becamex Business Student with a passion for exploring data, uncoveri
 -  **Currently studying:** Introduction to Business Analytics (MIS 311) and Business Processes & Information Systems (MIS 301).
 - **Skills I'm developing:** Python (Pandas, Matplotlib), SQL, and Database Administration.
 - **How to reach me:** trang.dominh.bbs22@eiu.edu.vn
-- 
+  
 ## Academic Portfolio
 
 Below are the repositories showcasing my academic progress and business analytics projects:
